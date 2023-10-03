@@ -1,4 +1,4 @@
-/* Reset some default browser styles */
+
 body, h1, h2, p, ul, li, a {
     margin: 0;
     padding: 0;
@@ -7,7 +7,6 @@ body, h1, h2, p, ul, li, a {
     font-family: Arial, sans-serif;
 }
 
-/* Page styles */
 body {
     background-color: #f0f0f0;
     color: #333;

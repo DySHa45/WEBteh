@@ -1,36 +1,32 @@
-/* a. Колір фону та тексту */
+
 a {
-    background-color: #337ab7; /* Background color for the link */
-    color: #ffffff; /* Text color for the link */
-    text-decoration: none; /* Remove underlines from links */
-    padding: 10px 20px; /* Padding for the link (top/bottom 10px, left/right 20px) */
-    border-radius: 5px; /* Rounded corners for the link */
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Shadow for the link */
-    display: inline-block; /* Make the link a block-level element for positioning */
+    background-color: #337ab7; 
+    color: #ffffff; 
+    text-decoration: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
+    display: inline-block; 
 }
 
-/* b. Ширина та внутрішні відступи */
 form {
     background-color: #f9f8f8;
-    max-width: 400px; /* Maximum width for the form */
-    margin: 0 auto; /* Center the form horizontally on the page */
-    padding: 20px; /* Padding for the form elements */
+    max-width: 400px; 
+    margin: 0 auto; 
+    padding: 20px; 
 }
 
-/* c. Закруглені кути */
 input, select, label {
-    border: 1px solid #ccc; /* Add a border to form elements */
-    border-radius: 5px; /* Rounded corners for form elements */
-    padding: 10px; /* Padding for form elements */
-    margin: 5px 0; /* Margin between form elements (top/bottom 5px, left/right 0) */
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    padding: 10px; 
+    margin: 5px 0; 
 }
 
-/* d. Тінь */
 form {
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /* Shadow for the form */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); 
 }
 
-/* e. Позиціювання */
 form {
-    position: relative; /* Set the form to a relative position */
+    position: relative; 
 }
