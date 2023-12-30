@@ -1,10 +1,10 @@
 body{
   font-family: 'Heebo', sans-serif;
-  font-size: 16px; /* Розмір шрифта */
-  color: #333; /* Колір тексту */
-  font-weight: normal; /* Жирність тексту: normal, bold, lighter, heavier, 100, 200, ..., 900 */
-  line-height: 1.5; /* Висота рядка */
-  /* Додайте інші стилі за потребою */}
+  font-size: 16px; 
+  color: #333; 
+  font-weight: normal; 
+  line-height: 1.5; 
+  }
 
 .nav-item {
     color: #000000;
